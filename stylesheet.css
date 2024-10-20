@@ -1,0 +1,26 @@
+h1 {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+.myClass {
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#uniqueElement {
+    color: red;
+    font-weight: bold;
+}
+
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+.myBoxModel {
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid black;
+}
