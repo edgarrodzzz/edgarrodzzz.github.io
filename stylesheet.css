@@ -23,6 +23,8 @@ a:hover {
     padding: 20px;
     margin: 15px;
     border: 2px solid black;
+    text-align: center; 
+    
 }
 
 .myBoxModel img {
