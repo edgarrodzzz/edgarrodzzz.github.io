@@ -24,3 +24,8 @@ a:hover {
     margin: 15px;
     border: 2px solid black;
 }
+
+.myBoxModel img {
+    display: block;
+    margin: 10px auto; 
+}
